@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1567827611 source:g:\g7-varios\esteban\lab_comp_i-tp_01\funciones.c
+	<stdio.h>
+
+1567824241 source:g:\g7-varios\esteban\lab_comp_i-tp_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567827611 g:\g7-varios\esteban\lab_comp_i-tp_01\funciones.h
+
